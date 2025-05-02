@@ -18,7 +18,7 @@
     </main>
 
     {{-- Footer --}}
-    <footer class="bg-gray-800 text-white text-center py-4">
+    <footer class="bg-gray-800 text-white text-center px-1 py-4">
         <p>ReserSpot &copy; {{ date('Y') }} - Todos los derechos reservados.</p>
     </footer>
 
